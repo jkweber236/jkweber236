@@ -1,6 +1,6 @@
 # Jennifer Weber
 
-Hello, GitHub! 👋
+Hello!
 
 I'm Jennifer Weber, a student at Brigham Young University-Idaho interested in software engineering. Welcome to my GitHub profile!
 
